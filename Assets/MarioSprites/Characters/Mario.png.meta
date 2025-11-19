@@ -127,7 +127,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteBorder: {x: 36, y: 0, z: 705, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -178,9 +178,9 @@ TextureImporter:
       name: Mario_0
       rect:
         serializedVersion: 2
-        x: 36
+        x: 9
         y: 0
-        width: 150
+        width: 14
         height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -751,7 +751,7 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 4a0375353e3b965428160a34ab6be505
-    internalID: 0
+    internalID: -1329228657
     vertices: []
     indices: 
     edges: []
