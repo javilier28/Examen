@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Moneda
   - Peligro
+  - Meta
   layers:
   - Default
   - TransparentFX
